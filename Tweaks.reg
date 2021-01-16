@@ -26,7 +26,6 @@ Windows Registry Editor Version 5.00
 "DisableLogonBackgroundImage"=dword:00000001
 [HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\Windows]
 "NoLockScreen"=dword:00000001
-;Disable LockScreen in gpedit
 [HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\Windows\Personalization]
 "NoLockScreen"=dword:00000001
 [HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Winlogon]
