@@ -34,11 +34,11 @@ Suppressions définitives de clés :
 - 3D Objects
 - Option de rotation lors d'un clique droit sur les images.
 
-Suppressions définitives de clés lié au menu contextuel :
+Suppressions définitives de clés liés au menu contextuel :
 - Inclure dans la librairie.
 - Épingler à l'accès rapide.
 - Épingler à la barre des tâches.
-- Épingler au menu démarrer via.
+- Épingler au menu démarrer.
 - Envoyer.
 - Partager.
 - Éditer.
