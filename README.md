@@ -6,7 +6,7 @@ Collection de diverses clés de registre pour Windows 10, allant de quelques opt
 - Ouvre l'explorateur sur « Ce PC ».
 - Affiche les extensions dans l'explorateur.
 - Afficher les fichiers et dossiers cachés.
-- Active l'installation des fichier .cab lors d'un clique droit.
+- Active l'installation des fichiers .cab lors d'un clique droit.
 - Active la connexion automatique.
 - Active le mode sombre par défaut.
 - Prendre les droits d'un fichier ou dossier en faisant Shift + clique droit dessus.
