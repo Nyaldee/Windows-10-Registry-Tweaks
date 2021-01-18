@@ -1,5 +1,5 @@
 # Windows 10 Registry Tweaks
-Collection de diverses clés de registre pour Windows 10, allant de quelques options de télémétrie à la désactivation de certaines options et configuration. Tweaks admin.reg désactive le lien d'accès rapide du panneau de contrôle mais nécessite les droits d'administrateur.
+Collection de diverses clés de registre pour Windows 10, allant de quelques options de télémétrie à la désactivation de certaines fonctions et configuration. Tweaks admin.reg désactive le lien d'accès rapide du panneau de contrôle mais nécessite les droits d'administrateur.
 
 - Remplace les NCSI de Microsoft par ceux de Debian.
 - Réduit le délai de fermeture des applications lors de l'extinction de Windows.
